@@ -6,3 +6,6 @@
 Bahasa yang digunakan pada tugas praktikum kali ini adalah bahasa pemrogaman Php & HTML
 
 ## Screenshot Hasil Program (Video)
+
+https://user-images.githubusercontent.com/91062027/167074758-f83f8a47-24f5-463d-8113-8b228c1d13f3.mp4
+
